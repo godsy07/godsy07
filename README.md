@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@godsy07](https://github.com/godsy07)
+- 👋 Hi, I’m [Godson](https://github.com/godsy07)
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React JS
 
