@@ -3,7 +3,6 @@
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning React JS
 
-<!--
 <h3>Connect with me:</h3>
  <p align="left">
 <a href="https://instagram.com/" target="blank">
