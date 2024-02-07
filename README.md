@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate software developer with experience in building web applications using a variety of technologies. I have worked with ReactJS, NodeJS, ExpressJS, JavaScript, PHP, and various databases such as MongoDB, MySQL, and Postgres.
+I'm a passionate software developer with experience in building web applications using a variety of technologies. I have worked with ReactJS, NodeJS, ExpressJS, JavaScript, PHP, and various databases such as MongoDB, MySQL, and Postgres
 
 ## Skills
 
